@@ -1,0 +1,30 @@
+# Логи
+logs
+*.log
+npm-debug.log*
+request.log
+error.log
+
+# Node
+node_modules
+
+# Build
+dist
+temp
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+.idea
+.vscode
+Thumbs.db
+Desktop.ini
+
+# Uploads
+uploads/
+images/
+temp/
